@@ -19,7 +19,7 @@
 [<img align="left" alt="MongoDB" height="26px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" style="padding-right:10px;" />](https://mongodb.com/)
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" style="padding-right:10px;" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-
+![Metrics](/github-metrics.svg)
 
 
 
